@@ -16,9 +16,12 @@ My name is Ana Letícia Camargos.
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=anacamargos&show_icons=true&count_private=true&hide=issues">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacamargos&layout=compact&langs_count=6">
+<a href="https://github.com/anacamargos/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anacamargos&show_icons=true&count_private=true&hide=issues" />
+</a>
+<a href="https://github.com/anacamargos/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacamargos&layout=compact&langs_count=6" />
+</a>
 
 <!--
 **anacamargos/anacamargos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

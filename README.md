@@ -16,11 +16,13 @@ My name is Ana Letícia Camargos.
 
 <br />
 
+## Github Stats
+
 <a href="https://github.com/anacamargos/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anacamargos&show_icons=true&count_private=true&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anacamargos&show_icons=true&count_private=true&hide=issues&hide_border=true" />
 </a>
 <a href="https://github.com/anacamargos/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacamargos&layout=compact&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacamargos&layout=compact&langs_count=6&hide_border=true" />
 </a>
 
 <!--

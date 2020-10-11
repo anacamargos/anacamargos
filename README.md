@@ -14,7 +14,6 @@ My name is Ana Letícia Camargos.
 - 🔭 I’m currently working with iOS Development
 - 🌱 I’m currently learning more about **Clean Architecture** and **TDD**
 
-<br />
 
 ## Github Stats
 

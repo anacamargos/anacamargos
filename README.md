@@ -7,7 +7,7 @@
 
 I'm Ana, a 23 year-old iOS Developer from Brazil
 
-- :woman_technologist: I’m currently working with iOS Development at Hotmart
+- :woman_technologist: I’m currently working with iOS Development at Holler
 - :books: I’m currently learning more about **Clean Architecture** and **TDD**
 - :mortar_board: I'm graduated in Computer Science at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)
 

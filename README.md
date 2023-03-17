@@ -8,7 +8,6 @@
 I'm Ana, an iOS Developer from Brazil
 
 - :woman_technologist: I’m currently working with iOS Development at Faire
-- :books: I’m currently learning more about **Clean Architecture** and **TDD**
 - :mortar_board: I'm graduated in Computer Science at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)
 
 

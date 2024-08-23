@@ -7,7 +7,7 @@
 
 I'm Ana, an iOS Developer from Brazil
 
-- :woman_technologist: I’m currently working with iOS Development at Faire
+- :woman_technologist: I’m currently working with iOS Development at Thoughtworks
 - :mortar_board: I'm graduated in Computer Science at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)
 
 
